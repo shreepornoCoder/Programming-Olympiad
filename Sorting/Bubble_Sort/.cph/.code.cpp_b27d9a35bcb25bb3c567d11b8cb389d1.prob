@@ -1,0 +1,1 @@
+{"name":"Local: code","url":"d:\\CP_Preparation\\Sorting_Algo\\Bubble_Sort\\code.cpp","tests":[{"id":1739895475042,"input":"5\n2 3 1 4 5","output":"1 2 3 4 5 "},{"id":1739895820478,"input":"5\n15 20 30 9 40","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP_Preparation\\Sorting_Algo\\Bubble_Sort\\code.cpp","group":"local","local":true}
