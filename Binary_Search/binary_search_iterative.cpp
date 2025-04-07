@@ -19,7 +19,7 @@ int binarySearch(vector<int>v, int length, int tar){
     }
     return -1;
 }
-#
+
 int main(){
     vector <int> v = {1, 2, 3, 4, 6, 6, 7};
     int res = binarySearch(v, v.size(), 6);
